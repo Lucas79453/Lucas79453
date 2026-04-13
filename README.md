@@ -1,15 +1,13 @@
+# Hi, I'm Lucas
 
-
-# Hi, I'm Lucas 👋
-
-## 🧠 Professional Profile
+## Professional Profile
 
 Cybersecurity student with hands-on experience in network enumeration, exploitation, and security analysis.
-Currently focused on both offensive security (penetration testing) and defensive security, actively pursuing opportunities as a SOC Analyst.
+Currently focused on both offensive security (penetration testing) and defensive security, actively seeking opportunities as a SOC Analyst.
 
 ---
 
-## 🔐 Skills
+## Skills
 
 * Network Enumeration (Nmap)
 * Exploitation (Metasploit)
@@ -19,7 +17,7 @@ Currently focused on both offensive security (penetration testing) and defensive
 
 ---
 
-## 🛡️ SOC & Defensive Interests
+## SOC & Defensive Interests
 
 * Log analysis and monitoring
 * Threat detection
@@ -28,67 +26,31 @@ Currently focused on both offensive security (penetration testing) and defensive
 
 ---
 
-## 🧪 Labs
+## Labs
 
-* Lab 01 - Network Enumeration
-* Lab 02 - Exploiting vsftpd Backdoor
+* [Lab 01 - Network Enumeration](https://github.com/Lucas79453/lab-01-network-enumeration)
+* [Lab 02 - Exploiting vsftpd Backdoor](https://github.com/Lucas79453/lab-02-vsftpd-exploitation)
 
 ---
 
-## 🎯 Goals
+## Goals
 
 * Become a SOC Analyst and Penetration Tester
-* Develop strong skills in both attack and defense scenarios
+* Develop strong skills in both offensive and defensive security
 * Build a professional cybersecurity portfolio
 
 ---
 
-## 📫 Contact
+## Contact
 
-* LinkedIn: # Hi, I'm Lucas 👋
+* LinkedIn:  www.linkedin.com/in/lucas-neves-240784271
 
-## 🧠 Professional Profile
 
-Cybersecurity student with hands-on experience in network enumeration, exploitation, and security analysis.
-Currently focused on both offensive security (penetration testing) and defensive security, actively pursuing opportunities as a SOC Analyst.
 
----
 
-## 🔐 Skills
 
-* Network Enumeration (Nmap)
-* Exploitation (Metasploit)
-* SMB & FTP Enumeration
-* Web Application Testing (DVWA, Mutillidae)
-* Linux Fundamentals
 
----
 
-## 🛡️ SOC & Defensive Interests
 
-* Log analysis and monitoring
-* Threat detection
-* Incident response fundamentals
-* SIEM concepts
 
----
-
-## 🧪 Labs
-
-* Lab 01 - Network Enumeration
-* Lab 02 - Exploiting vsftpd Backdoor
-
----
-
-## 🎯 Goals
-
-* Become a SOC Analyst and Penetration Tester
-* Develop strong skills in both attack and defense scenarios
-* Build a professional cybersecurity portfolio
-
----
-
-## 📫 Contact
-
-* LinkedIn: www.linkedin.com/in/lucas-neves-240784271
 
