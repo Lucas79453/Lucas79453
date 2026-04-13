@@ -9,11 +9,14 @@ Currently focused on both offensive security (penetration testing) and defensive
 
 ## Skills
 
-* Network Enumeration (Nmap)
-* Exploitation (Metasploit)
-* SMB & FTP Enumeration
-* Web Application Testing (DVWA, Mutillidae)
-* Linux Fundamentals
+- Operating Systems: Windows, Linux  
+- Networking Fundamentals (TCP/IP, Ports, Protocols)  
+- Programming: Python, JavaScript (Basic), PHP (Basic)  
+- Databases: SQL  
+- Cybersecurity: Network Enumeration, Exploitation Basics  
+- Cryptography Fundamentals  
+- Web Security: OWASP Top 10  
+
 
 ---
 
