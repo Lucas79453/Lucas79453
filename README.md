@@ -34,6 +34,8 @@ Currently focused on both offensive security (penetration testing) and defensive
 * [Lab 01 - Network Enumeration](https://github.com/Lucas79453/lab-01-network-enumeration)
 * [Lab 02 - Exploiting vsftpd Backdoor](https://github.com/Lucas79453/lab-02-vsftpd-exploitation)
 * [Lab 03 - SMB Enumeration and Anonymous Access](https://github.com/Lucas79453/Lab-03-SMB-Enumeration-and-Anonymous-Access-)
+* [Lab 04 - Web Application Exploitation (DVWA)](https://github.com/Lucas79453/Lab-04-Web-Application-Exploitation-DVWA)
+* [Lab 05 - Windows 7 Exploitation (EternalBlue)](https://github.com/Lucas79453/Lab-05-Windows-7-EternalBlue)
 ---
 
 ## Goals
