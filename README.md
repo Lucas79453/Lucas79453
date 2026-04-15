@@ -14,7 +14,7 @@ Currently focused on both offensive security (penetration testing) and defensive
 - Networking Fundamentals (TCP/IP, Ports, Protocols)  
 - Programming: Python, JavaScript (Basic), PHP (Basic)  
 - Databases: SQL  
-- Cybersecurity: Network Enumeration, Exploitation Basics  
+- Cybersecurity: Network Enumeration, Exploitation and Post Exploitation 
 - Cryptography Fundamentals  
 - Web Security: OWASP Top 10  
 
