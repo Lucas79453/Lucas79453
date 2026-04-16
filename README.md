@@ -20,13 +20,9 @@ Currently focused on both offensive security (penetration testing) and defensive
 
 ---
 
-## SOC & Defensive Interests
-
-- Log analysis and monitoring  
-- Threat detection  
-- Incident response fundamentals  
-- SIEM concepts  
-
+Career Focus
+Currently seeking opportunities in Penetration Testing (Pentest), SOC Analyst, and Technical Support roles.
+Focused on developing practical skills in both offensive security (pentesting) and defensive security, with an emphasis on real-world scenarios and continuous learning.
 ---
 
 ## Cybersecurity Labs Portfolio
