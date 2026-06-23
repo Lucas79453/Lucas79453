@@ -4,7 +4,7 @@
 
 Cybersecurity student with hands-on experience in network enumeration, exploitation, and security analysis.
 
-Currently focused on both **offensive security (penetration testing)** and **defensive security**, actively seeking opportunities in **Pentesting, SOC Analyst, and Technical Support** roles.
+Currently focused on **defensive security**, actively seeking opportunities in **SOC Analyst, and Technical Support** roles.
 
 ---
 
@@ -29,7 +29,7 @@ Currently focused on both **offensive security (penetration testing)** and **def
 
 ---
 
-## Pentest Focus
+## Pentest 
 
 * Network and service enumeration
 * Vulnerability identification and exploitation
