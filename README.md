@@ -1,10 +1,11 @@
+
 # Hi, I'm Lucas
 
 ## Professional Profile
 
 Cybersecurity student with hands-on experience in network enumeration, exploitation, and security analysis.
 
-Currently focused on **defensive security**, actively seeking opportunities in **SOC Analyst, and Technical Support** roles.
+Currently focused on **defensive security**, actively seeking opportunities in **SOC Analyst and Technical Support** roles.
 
 ---
 
@@ -29,13 +30,19 @@ Currently focused on **defensive security**, actively seeking opportunities in *
 
 ---
 
-## Pentest 
+## Pentest Interests
 
 * Network and service enumeration
 * Vulnerability identification and exploitation
 * Web application testing (DVWA, OWASP Top 10)
 * Basic privilege escalation techniques
 * Post-exploitation fundamentals
+
+---
+
+## Networking & Infrastructure Labs
+
+* [Lab - Network Troubleshooting: From Diagnosis to Resolution (Cisco Packet Tracer)](https://github.com/Lucas79453/cisco-packet-tracer-troubleshooting)
 
 ---
 
@@ -66,6 +73,5 @@ Currently focused on **defensive security**, actively seeking opportunities in *
 
 ## Career Focus
 
-Currently seeking opportunities in  **SOC Analyst**, and **Technical Support**.
+Currently seeking opportunities in **SOC Analyst** and **Technical Support**.
 Motivated to grow in cybersecurity through hands-on experience, continuous learning, and contributing to real-world security operations.
-
