@@ -66,6 +66,6 @@ Currently focused on **defensive security**, actively seeking opportunities in *
 
 ## Career Focus
 
-Currently seeking opportunities in **Penetration Testing (Pentest)**, **SOC Analyst**, and **Technical Support**.
+Currently seeking opportunities in  **SOC Analyst**, and **Technical Support**.
 Motivated to grow in cybersecurity through hands-on experience, continuous learning, and contributing to real-world security operations.
 
