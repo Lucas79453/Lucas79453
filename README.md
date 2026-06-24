@@ -44,8 +44,8 @@ Currently focused on **defensive security**, actively seeking opportunities in *
 
 * [Lab - Network Troubleshooting: From Diagnosis to Resolution (Cisco Packet Tracer)](https://github.com/Lucas79453/cisco-packet-tracer-troubleshooting)
  
-* [Lab - Multi-Site Infrastructure Deployment and IPv6 Static Routing (Cisco Packet Tracer)](https://github.com/Lucas79453/cisco-multi-site-ipv6-routing)
-
+* [Lab - Multi-Site Infrastructure Deployment and IPv6 Static Routing (Cisco Packet Tracer)](https://github.com/Lucas79453/multi-site-ipv6-infrastructure)
+  
 ## Cybersecurity Labs Portfolio
 
 * [Lab 01 - Network Enumeration](https://github.com/Lucas79453/lab-01-network-enumeration)
